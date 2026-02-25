@@ -3,7 +3,7 @@
 > 去中心化蜂群智能驱动的投资研究平台
 > 实时扫描市场机会，生成结构化投资简报
 
-**在线访问**: [https://wangmingjie36-creator.github.io/alpha-hive-report/](https://wangmingjie36-creator.github.io/alpha-hive-report/)
+**在线访问**: [https://wangmingjie36-creator.github.io/alpha-hive-deploy/](https://wangmingjie36-creator.github.io/alpha-hive-deploy/)
 
 ---
 
@@ -335,14 +335,14 @@ python /Users/igg/.claude/skills/queen-distiller.py --ticker NEW_TICKER
 
 ### 仪表板（首页）
 ```
-https://wangmingjie36-creator.github.io/alpha-hive-report/
+https://wangmingjie36-creator.github.io/alpha-hive-deploy/
 ```
 
 ### 各标的深度报告
 ```
-NVDA:  https://wangmingjie36-creator.github.io/alpha-hive-report/alpha-hive-nvda-2026-02-23.html
-VKTX:  https://wangmingjie36-creator.github.io/alpha-hive-report/alpha-hive-vktx-2026-02-23.html
-TSLA:  https://wangmingjie36-creator.github.io/alpha-hive-report/alpha-hive-tsla-2026-02-23.html
+NVDA:  https://wangmingjie36-creator.github.io/alpha-hive-deploy/alpha-hive-nvda-2026-02-23.html
+VKTX:  https://wangmingjie36-creator.github.io/alpha-hive-deploy/alpha-hive-vktx-2026-02-23.html
+TSLA:  https://wangmingjie36-creator.github.io/alpha-hive-deploy/alpha-hive-tsla-2026-02-23.html
 ```
 
 ---
@@ -386,8 +386,8 @@ TSLA:  https://wangmingjie36-creator.github.io/alpha-hive-report/alpha-hive-tsla
 💡 **分享给朋友**：直接复制仪表板链接或具体报告链接，朋友可以直接打开查看
 
 ```
-仪表板分享: https://wangmingjie36-creator.github.io/alpha-hive-report/
-标的分享:   https://wangmingjie36-creator.github.io/alpha-hive-report/alpha-hive-nvda-2026-02-23.html
+仪表板分享: https://wangmingjie36-creator.github.io/alpha-hive-deploy/
+标的分享:   https://wangmingjie36-creator.github.io/alpha-hive-deploy/alpha-hive-nvda-2026-02-23.html
 ```
 
 ---
